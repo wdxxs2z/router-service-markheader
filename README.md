@@ -17,5 +17,5 @@ The router is display:
 </br>
 
 ### Result are：
-Visit fake.pcf17.com ADD a header ：X-CF-Mark:fakea and the result is ：<h2>Hello World Thomas?</h2>
-Visit fake.pcf17.com ADD a header ：X-CF-Mark:fakeb and the result is ：<h2>Hello World Thomas----- new version </h2>
+Visit fake.pcf17.com ADD a header ：X-CF-Mark:fakea and the result is ：Hello World Thomas?
+Visit fake.pcf17.com ADD a header ：X-CF-Mark:fakeb and the result is ：Hello World Thomas----- new version
